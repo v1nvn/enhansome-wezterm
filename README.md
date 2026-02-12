@@ -1,16 +1,16 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,588 | 🐛 68 | 📅 2026-01-28 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 24,049 | 🐛 1,585 | 🌐 Rust | 📅 2026-02-05. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 24,077 | 🐛 1,587 | 🌐 Rust | 📅 2026-02-05. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
 To enhance your WezTerm configuration experience:
 
-* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 148 | 🐛 1 | 🌐 Lua | 📅 2026-02-10 - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
+* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 148 | 🐛 1 | 🌐 Lua | 📅 2026-02-11 - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
 
 ## Contents
 
@@ -33,8 +33,8 @@ To enhance your WezTerm configuration experience:
 ## Keybinding
 
 * [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) ⭐ 110 | 🐛 3 | 🌐 Lua | 📅 2025-06-30 - Predefined Vim-like modal keybindings with a good looking UI.
-* [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Ported tmux keybindings.
-* [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
+* [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) ⭐ 41 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Ported tmux keybindings.
+* [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
 * [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-08-16 - Lets you assign a key binding to a specific tab.
 
 ## Media
@@ -48,7 +48,7 @@ To enhance your WezTerm configuration experience:
 
 ## Panes
 
-* [ChrisGVE/pivot\_panes.wezterm](https://github.com/ChrisGVE/pivot_panes.wezterm) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-04-15 - Toggle pane orientation between horizontal and vertical splits.
+* [ChrisGVE/pivot\_panes.wezterm](https://github.com/ChrisGVE/pivot_panes.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2025-04-15 - Toggle pane orientation between horizontal and vertical splits.
 * [bad-noodles/stack.wez](https://github.com/bad-noodles/stack.wez) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-11-23 - Stacked pane mode, work with multiple panes but see only one at a time.
 
 ## Session
