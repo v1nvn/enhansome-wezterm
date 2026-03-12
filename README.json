@@ -112,6 +112,19 @@
             "repo": "pinned-tabs.wezterm",
             "stars": 3
           }
+        },
+        {
+          "children": [],
+          "description": "Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.",
+          "title": "abidibo/wezterm-cmdpicker",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-11T12:54:42Z",
+            "owner": "abidibo",
+            "repo": "wezterm-cmdpicker",
+            "stars": 1
+          }
         }
       ],
       "title": "Keybinding"
@@ -245,7 +258,7 @@
             "last_commit": "2025-07-04T14:24:04Z",
             "owner": "MLFlexer",
             "repo": "resurrect.wezterm",
-            "stars": 279
+            "stars": 281
           }
         },
         {
@@ -281,7 +294,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-10T20:31:15Z",
+            "last_commit": "2026-03-11T14:34:59Z",
             "owner": "abidibo",
             "repo": "wezterm-sessions",
             "stars": 15
@@ -313,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-09T21:45:39Z",
+            "last_commit": "2026-03-11T15:22:21Z",
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -510,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:03:47.169Z",
+    "last_updated": "2026-03-12T04:07:55.471Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "source_repository": "v1nvn/enhansome-wezterm",
     "source_repository_description": null,

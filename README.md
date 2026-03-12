@@ -1,10 +1,10 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,521 | 🐛 75 | 📅 2026-03-09 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,818 | 🐛 76 | 📅 2026-03-09 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 24,829 | 🐛 1,621 | 🌐 Rust | 📅 2026-03-01. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 24,853 | 🐛 1,621 | 🌐 Rust | 📅 2026-03-01. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -37,6 +37,7 @@ To enhance your WezTerm configuration experience:
 * [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) ⭐ 46 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Ported tmux keybindings.
 * [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2023-11-21 - Pane control keybindings like tmux-pain-control.
 * [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-08-16 - Lets you assign a key binding to a specific tab.
+* [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-03-11 - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
 
 ## Media
 
@@ -54,12 +55,12 @@ To enhance your WezTerm configuration experience:
 
 ## Session
 
-* [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) ⭐ 279 | 🐛 36 | 🌐 Lua | 📅 2025-07-04 - Save and restore the state of windows, tabs and panes.
+* [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) ⭐ 281 | 🐛 36 | 🌐 Lua | 📅 2025-07-04 - Save and restore the state of windows, tabs and panes.
 * [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⭐ 186 | 🐛 2 | 🌐 Lua | 📅 2025-06-30 - Switch between workspaces with fuzzy finding and `zoxide`.
 * [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 85 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
 * [DavidRR-F/quick\_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) ⭐ 27 | 🐛 4 | 🌐 Lua | 📅 2026-02-01 - Faster way to search and attach to (SSH) domains.
 * [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) ⭐ 16 | 🐛 0 | 🌐 Lua | 📅 2026-03-03 - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
-* [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 15 | 🐛 1 | 🌐 Lua | 📅 2026-03-10 - Save and restore sessions.
+* [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 15 | 🐛 1 | 🌐 Lua | 📅 2026-03-11 - Save and restore sessions.
 * [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-01-11 - Workspace switcher with `zoxide` integration.
 * [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-03-02 - A simple and flexible way to manage and initialize workspace configurations.
 * [srackham/tabsets.wezterm](https://github.com/srackham/tabsets.wezterm) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-12-27 - Load, save, rename and delete named sets of tabs.
@@ -67,7 +68,7 @@ To enhance your WezTerm configuration experience:
 ## Tab bar
 
 * [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 272 | 🐛 7 | 🌐 Lua | 📅 2026-02-13 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
-* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 209 | 🐛 4 | 🌐 Lua | 📅 2026-03-09 - A configurable tab bar with batteries included.
+* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 210 | 🐛 3 | 🌐 Lua | 📅 2026-03-11 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 24 | 🐛 1 | 🌐 Lua | 📅 2025-01-01 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2025-02-23 - Configurable status for the retro tab bar.
 * [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
