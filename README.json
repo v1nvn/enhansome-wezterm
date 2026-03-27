@@ -49,10 +49,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-26T01:50:34Z",
+            "last_commit": "2026-03-26T13:04:57Z",
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
-            "stars": 38
+            "stars": 39
           }
         }
       ],
@@ -123,7 +123,7 @@
             "last_commit": "2026-03-11T12:54:42Z",
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -271,7 +271,7 @@
             "last_commit": "2025-06-30T13:27:16Z",
             "owner": "MLFlexer",
             "repo": "smart_workspace_switcher.wezterm",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-16T07:19:09Z",
+            "last_commit": "2026-03-26T14:45:44Z",
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -523,7 +523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:28:01.703Z",
+    "last_updated": "2026-03-27T04:29:03.527Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "source_repository": "v1nvn/enhansome-wezterm",
     "source_repository_description": null,
