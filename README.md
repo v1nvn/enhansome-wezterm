@@ -1,10 +1,10 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,692 | 🐛 88 | 📅 2026-03-09 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,985 | 🐛 87 | 📅 2026-03-09 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,154 | 🐛 1,649 | 🌐 Rust | 📅 2026-03-21. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,168 | 🐛 1,652 | 🌐 Rust | 📅 2026-03-21. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -45,7 +45,7 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,597 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,598 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2025-08-27 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -59,7 +59,7 @@ To enhance your WezTerm configuration experience:
 * [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⭐ 192 | 🐛 2 | 🌐 Lua | 📅 2025-06-30 - Switch between workspaces with fuzzy finding and `zoxide`.
 * [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 88 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
 * [DavidRR-F/quick\_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) ⭐ 27 | 🐛 4 | 🌐 Lua | 📅 2026-02-01 - Faster way to search and attach to (SSH) domains.
-* [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2026-03-28 - Save and restore sessions.
+* [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-03-28 - Save and restore sessions.
 * [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-03-03 - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 * [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-01-11 - Workspace switcher with `zoxide` integration.
 * [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-03-02 - A simple and flexible way to manage and initialize workspace configurations.
