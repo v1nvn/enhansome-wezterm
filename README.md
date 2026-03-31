@@ -1,10 +1,10 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,985 | 🐛 87 | 📅 2026-03-09 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,301 | 🐛 88 | 📅 2026-03-09 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,168 | 🐛 1,652 | 🌐 Rust | 📅 2026-03-21. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,188 | 🐛 1,654 | 🌐 Rust | 📅 2026-03-21. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -26,7 +26,7 @@ To enhance your WezTerm configuration experience:
 
 ## AI
 
-* [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 39 | 🐛 0 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
+* [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2025-08-24 - Generate and select bash commands based on natural language prompts.
 * [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 1 | 🐛 1 | 🌐 Lua | 📅 2026-03-13 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
@@ -45,8 +45,8 @@ To enhance your WezTerm configuration experience:
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,598 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
-* [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 71 | 🐛 2 | 🌐 Lua | 📅 2025-08-27 - Interact with the WezTerm configuration directly from Neovim.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,599 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2025-08-27 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
 
