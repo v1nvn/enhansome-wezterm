@@ -1,10 +1,10 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,301 | 🐛 88 | 📅 2026-03-09 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 450,603 | 🐛 85 | 📅 2026-03-09 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,188 | 🐛 1,654 | 🌐 Rust | 📅 2026-03-21. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,207 | 🐛 1,654 | 🌐 Rust | 📅 2026-04-01. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -41,11 +41,11 @@ To enhance your WezTerm configuration experience:
 
 ## Media
 
-* [xarvex/presentation.wez](https://github.com/xarvex/presentation.wez) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2024-09-12 - Rather simple presentation mode toggle.
+* [xarvex/presentation.wez](https://github.com/xarvex/presentation.wez) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2024-09-12 - Rather simple presentation mode toggle.
 
 ## Neovim
 
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,599 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,601 | 🐛 14 | 🌐 Lua | 📅 2026-03-27 - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 * [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ⭐ 72 | 🐛 2 | 🌐 Lua | 📅 2025-08-27 - Interact with the WezTerm configuration directly from Neovim.
 
 ## Panes
@@ -67,11 +67,11 @@ To enhance your WezTerm configuration experience:
 
 ## Tab bar
 
-* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 280 | 🐛 6 | 🌐 Lua | 📅 2026-02-13 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
-* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 214 | 🐛 2 | 🌐 Lua | 📅 2026-03-26 - A configurable tab bar with batteries included.
+* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 281 | 🐛 6 | 🌐 Lua | 📅 2026-02-13 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
+* [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 215 | 🐛 3 | 🌐 Lua | 📅 2026-03-26 - A configurable tab bar with batteries included.
+* [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-03-23 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
-* [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 24 | 🐛 1 | 🌐 Lua | 📅 2026-03-23 - Configurable tabs for the retro tab bar.
-* [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
+* [rootiest/battery.wez](https://github.com/rootiest/battery.wez) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-10-07 - A colorful and fancy battery component for the retro tab bar.
 
 ## Themes
 
