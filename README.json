@@ -152,7 +152,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2025-08-27T11:22:29Z",
+            "last_commit": "2026-04-01T23:14:51Z",
             "owner": "winter-again",
             "repo": "wezterm-config.nvim",
             "stars": 72
@@ -342,7 +342,7 @@
             "last_commit": "2026-02-13T23:40:33Z",
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -401,6 +401,19 @@
             "owner": "neapsix",
             "repo": "wezterm",
             "stars": 73
+          }
+        },
+        {
+          "children": [],
+          "description": "Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.",
+          "title": "sravioli/kanagawa.wz",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-31T13:18:05Z",
+            "owner": "sravioli",
+            "repo": "kanagawa.wz",
+            "stars": 0
           }
         },
         {
@@ -507,6 +520,19 @@
         },
         {
           "children": [],
+          "description": "Memoization, caching, and persistent state management.",
+          "title": "sravioli/memo.wz",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-24T15:10:19Z",
+            "owner": "sravioli",
+            "repo": "memo.wz",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
           "description": "Parse command output and get URLs, shell commands, etc. pasted into your next prompt.",
           "title": "btrachey/wezterm-replay",
           "repo_info": {
@@ -523,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:43:11.660Z",
+    "last_updated": "2026-04-02T04:24:25.489Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "source_repository": "v1nvn/enhansome-wezterm",
     "source_repository_description": null,
