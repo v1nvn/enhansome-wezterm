@@ -52,7 +52,7 @@
             "last_commit": "2026-03-26T13:04:57Z",
             "owner": "Eric162",
             "repo": "wezterm-agent-deck",
-            "stars": 40
+            "stars": 42
           }
         }
       ],
@@ -97,7 +97,7 @@
             "last_commit": "2025-11-03T04:49:48Z",
             "owner": "sei40kr",
             "repo": "wez-tmux",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-03-11T12:54:42Z",
             "owner": "abidibo",
             "repo": "wezterm-cmdpicker",
-            "stars": 5
+            "stars": 6
           }
         }
       ],
@@ -142,7 +142,7 @@
             "last_commit": "2026-03-27T16:31:26Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1601
+            "stars": 1603
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-03-28T08:45:05Z",
             "owner": "abidibo",
             "repo": "wezterm-sessions",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-03-26T14:45:44Z",
             "owner": "adriankarlen",
             "repo": "bar.wezterm",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-02-13T23:40:33Z",
             "owner": "michaelbrusegard",
             "repo": "tabline.wez",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -410,10 +410,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-31T13:18:05Z",
+            "last_commit": "2026-04-02T08:37:40Z",
             "owner": "sravioli",
             "repo": "kanagawa.wz",
-            "stars": 0
+            "stars": 1
           }
         },
         {
@@ -520,14 +520,40 @@
         },
         {
           "children": [],
+          "description": "Tagged logging library with pluggable sinks and severity thresholds.",
+          "title": "sravioli/log.wz",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-02T08:41:51Z",
+            "owner": "sravioli",
+            "repo": "log.wz",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
           "description": "Memoization, caching, and persistent state management.",
           "title": "sravioli/memo.wz",
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-24T15:10:19Z",
+            "last_commit": "2026-04-02T08:44:59Z",
             "owner": "sravioli",
             "repo": "memo.wz",
+            "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "General-purpose utility library with string, table, list, path, and filesystem helpers.",
+          "title": "sravioli/warp.wz",
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-02T08:46:32Z",
+            "owner": "sravioli",
+            "repo": "warp.wz",
             "stars": 0
           }
         },
@@ -549,7 +575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:24:25.489Z",
+    "last_updated": "2026-04-03T04:24:52.976Z",
     "original_repository": "michaelbrusegard/awesome-wezterm",
     "source_repository": "v1nvn/enhansome-wezterm",
     "source_repository_description": null,
