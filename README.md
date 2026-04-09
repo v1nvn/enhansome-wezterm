@@ -1,16 +1,16 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 452,997 | 🐛 61 | 📅 2026-04-02 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 453,361 | 🐛 59 | 📅 2026-04-02 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,372 | 🐛 1,666 | 🌐 Rust | 📅 2026-04-01. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,408 | 🐛 1,669 | 🌐 Rust | 📅 2026-04-01. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
 To enhance your WezTerm configuration experience:
 
-* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 190 | 🐛 1 | 🌐 Lua | 📅 2026-04-07 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
+* [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) ⭐ 190 | 🐛 2 | 🌐 Lua | 📅 2026-04-08 - WezTerm type annotations that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API. Includes community plugins support.
 
 ## Contents
 
@@ -55,7 +55,7 @@ To enhance your WezTerm configuration experience:
 
 ## Session
 
-* [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) ⭐ 290 | 🐛 38 | 🌐 Lua | 📅 2025-07-04 - Save and restore the state of windows, tabs and panes.
+* [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) ⭐ 291 | 🐛 38 | 🌐 Lua | 📅 2025-07-04 - Save and restore the state of windows, tabs and panes.
 * [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⭐ 192 | 🐛 3 | 🌐 Lua | 📅 2025-06-30 - Switch between workspaces with fuzzy finding and `zoxide`.
 * [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 88 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
 * [DavidRR-F/quick\_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) ⭐ 27 | 🐛 4 | 🌐 Lua | 📅 2026-02-01 - Faster way to search and attach to (SSH) domains.
@@ -67,7 +67,7 @@ To enhance your WezTerm configuration experience:
 
 ## Tab bar
 
-* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 284 | 🐛 6 | 🌐 Lua | 📅 2026-02-13 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
+* [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) ⭐ 285 | 🐛 6 | 🌐 Lua | 📅 2026-02-13 - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
 * [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) ⭐ 216 | 🐛 2 | 🌐 Lua | 📅 2026-03-26 - A configurable tab bar with batteries included.
 * [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-03-23 - Configurable tabs for the retro tab bar.
 * [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-03-23 - Configurable status for the retro tab bar.
@@ -77,7 +77,7 @@ To enhance your WezTerm configuration experience:
 
 * [neapsix/wezterm](https://github.com/neapsix/wezterm) ⭐ 73 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 * [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-03-23 - Cycle through built-in themes using keyboard shortcuts.
-* [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
+* [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 
 ## Utility
 
@@ -87,8 +87,8 @@ To enhance your WezTerm configuration experience:
 * [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2026-03-06 - Location resolver for development and deployment of a plugin.
 * [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-12-13 - Jump to the build error by opening them in Helix.
 * [aureolebigben/wezterm-cmd-sender](https://github.com/aureolebigben/wezterm-cmd-sender) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-09-24 - Send commands to multiple panes.
-* [sravioli/memo.wz](https://github.com/sravioli/memo.wz) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Memoization, caching, and persistent state management.
+* [sravioli/memo.wz](https://github.com/sravioli/memo.wz) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Memoization, caching, and persistent state management.
+* [sravioli/log.wz](https://github.com/sravioli/log.wz) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Tagged logging library with pluggable sinks and severity thresholds.
+* [sravioli/warp.wz](https://github.com/sravioli/warp.wz) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - General-purpose utility library with string, table, list, path, and filesystem helpers.
 * [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-09-18 - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
-* [sravioli/log.wz](https://github.com/sravioli/log.wz) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - Tagged logging library with pluggable sinks and severity thresholds.
-* [sravioli/warp.wz](https://github.com/sravioli/warp.wz) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-02 - General-purpose utility library with string, table, list, path, and filesystem helpers.
 * [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
