@@ -1,10 +1,10 @@
 <!-- lint ignore awesome-git-repo-age -->
 
-# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,032 | 🐛 67 | 📅 2026-04-19 with stars
+# Awesome WezTerm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 458,412 | 🐛 66 | 📅 2026-04-19 with stars
 
 <img src="https://raw.githubusercontent.com/wez/wezterm/main/assets/icon/wezterm-icon.svg" align="right" width="144" />
 
-> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,686 | 🐛 1,694 | 🌐 Rust | 📅 2026-04-23. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
+> Collections of awesome WezTerm plugins. [Plugin Guide](https://github.com/wezterm/wezterm/blob/main/docs/config/plugins.md) ⭐ 25,694 | 🐛 1,695 | 🌐 Rust | 📅 2026-04-23. Found something cool? Please [contribute](origin/CONTRIBUTING.md)!
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
@@ -26,10 +26,10 @@ To enhance your WezTerm configuration experience:
 
 ## AI
 
-* [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 50 | 🐛 0 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
+* [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) ⭐ 51 | 🐛 0 | 🌐 Lua | 📅 2026-03-26 - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 * [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) ⭐ 37 | 🐛 0 | 🌐 Lua | 📅 2026-03-13 - Ask AI for CLI help with LM Studio or Google Gemini.
 * [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2025-08-24 - Generate and select bash commands based on natural language prompts.
-* [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-04-20 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
+* [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-04-20 - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 
 ## Keybinding
 
@@ -56,12 +56,12 @@ To enhance your WezTerm configuration experience:
 ## Session
 
 * [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) ⭐ 297 | 🐛 38 | 🌐 Lua | 📅 2025-07-04 - Save and restore the state of windows, tabs and panes.
-* [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⭐ 194 | 🐛 3 | 🌐 Lua | 📅 2025-06-30 - Switch between workspaces with fuzzy finding and `zoxide`.
+* [MLFlexer/smart\_workspace\_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) ⭐ 195 | 🐛 3 | 🌐 Lua | 📅 2025-06-30 - Switch between workspaces with fuzzy finding and `zoxide`.
 * [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) ⭐ 88 | 🐛 1 | 🌐 Lua | 📅 2025-07-05 - Opening Git repositories as their own WezTerm workspaces using `fd`.
 * [DavidRR-F/quick\_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) ⭐ 27 | 🐛 4 | 🌐 Lua | 📅 2026-02-01 - Faster way to search and attach to (SSH) domains.
 * [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) ⭐ 22 | 🐛 1 | 🌐 Lua | 📅 2026-03-28 - Save and restore sessions.
 * [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-03-03 - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
-* [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-01-11 - Workspace switcher with `zoxide` integration.
+* [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-01-11 - Workspace switcher with `zoxide` integration.
 * [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-03-02 - A simple and flexible way to manage and initialize workspace configurations.
 * [srackham/tabsets.wezterm](https://github.com/srackham/tabsets.wezterm) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-12-27 - Load, save, rename and delete named sets of tabs.
 
